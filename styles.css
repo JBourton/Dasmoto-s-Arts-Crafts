@@ -1,0 +1,31 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: yellow;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    background-image: url("images/pattern.jpeg");
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+.green-banner {
+    background-color: mediumspringgreen;
+}
+
+.red-banner {
+    background-color: lightcoral;
+}
+
+.blue-banner {
+    background-color: skyblue;
+}
